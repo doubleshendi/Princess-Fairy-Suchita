@@ -1,0 +1,10 @@
+button {
+  font-weight: 500;
+  font-size: Large;
+  padding: 50px;
+}
+img {
+  float: left;
+  margin-right: 20px;
+  height: 250px;
+}
